@@ -18,7 +18,7 @@ for an MySQL connection.
 require this package with composer:
 
 ```shell
-composer require stu-ad/laravel-iam-db-auth
+composer require afterdigital/laravel-iam-db-auth
 ```
 
 Add the IamDatabaseConnectorProvider to your config/app.php
