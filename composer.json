@@ -1,0 +1,22 @@
+{
+    "name": "stu-ad/laravel-iam-db-auth",
+    "description": "AWS IAM database auth package for laravel",
+    "type": "library",
+    "authors": [
+        {
+            "name": "Stu Mileham",
+            "email": "stuart.mileham@afterdigital.co.uk"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "php": ">=7.0",
+        "aws/aws-sdk-php": "^3.0.0",
+        "laravel/framework": "^5.4"
+    },
+    "autoload": {
+        "psr-0": {
+            "AD": "src/"
+        }
+    }
+}
