@@ -1,5 +1,5 @@
 {
-    "name": "stu-ad/laravel-iam-db-auth",
+    "name": "afterdigital/laravel-iam-db-auth",
     "description": "AWS IAM database auth package for laravel",
     "type": "library",
     "authors": [
