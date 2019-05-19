@@ -2,6 +2,7 @@
     "name": "afterdigital/laravel-iam-db-auth",
     "description": "AWS IAM database auth package for laravel",
     "type": "library",
+    "license": "GPL-3.0-or-later",
     "authors": [
         {
             "name": "Stu Mileham",
